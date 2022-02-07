@@ -1,5 +1,7 @@
 # Node version used 15.0.0 
 
+# Please install node modules using npm install command in the root directory of project.
+
 # WebdriverIO - Mocha - Chai Page object model Framework
 
 This project is to create a Page Object Model (POM) framework for UI automation using WebdriverIO, Mocha with Chai assertion library. To follow the coding standards, ESLinter is addapted.
